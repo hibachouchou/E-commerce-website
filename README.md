@@ -1,2 +1,2 @@
-# Projet E-Commerce Paraphamacie
- stage perfectionnement 
+# E-commerce website for the sale of parapharmaceutical products
+
